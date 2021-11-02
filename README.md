@@ -5,3 +5,6 @@
 - https://www.fast.ai/
 - https://playground.tensorflow.org/
 - https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
+----------------------------------------------------------
+# module in doc
+- [module 1] (module 1)
